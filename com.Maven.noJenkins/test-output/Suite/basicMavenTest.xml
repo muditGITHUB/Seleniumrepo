@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="delmjai3046840" name="com.Maven.noJenkins.helloMaven" tests="1" failures="0" timestamp="3 Jun 2017 12:57:16 GMT" time="0.03" errors="0">
+  <testcase name="f" time="0.015" classname="com.Maven.noJenkins.helloMaven"/>
+</testsuite>
